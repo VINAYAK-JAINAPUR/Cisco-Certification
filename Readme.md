@@ -1,6 +1,8 @@
 ### Networking Essentials Certificate
 
 This repository contains my Certificate of Completion for the **Networking Essentials** course from Cisco Networking Academy. This course has provided me with comprehensive knowledge and practical skills essential for a career in networking. 
+![Certificate Image](https://github.com/VINAYAK-JAINAPUR/Cisco-Certification/blob/main/VinayakJainapur-Networking%20Essen-certificate_page-0001.jpg)
+
 
 #### Key Skills and Knowledge Areas Acquired:
 - Network Communication Concepts
